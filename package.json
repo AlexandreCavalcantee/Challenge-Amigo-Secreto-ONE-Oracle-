@@ -1,0 +1,20 @@
+{
+  "name": "challenge-amigo-secreto_pt-main",
+  "version": "1.0.0",
+  "description": "Aplicação que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o \"amigo secreto\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreCavalcantee/Challenge-Amigo-Secreto-ONE-Oracle-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreCavalcantee/Challenge-Amigo-Secreto-ONE-Oracle-/issues"
+  },
+  "homepage": "https://github.com/AlexandreCavalcantee/Challenge-Amigo-Secreto-ONE-Oracle-#readme"
+}
